@@ -1,3 +1,3 @@
-print ("Hello World")
-x=3+5
-print(x)
+x=5
+y=x*x
+print(y)
