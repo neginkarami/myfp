@@ -1,3 +1,2 @@
 x=5
-y=x*x
-print(y)
+print(x*x)
