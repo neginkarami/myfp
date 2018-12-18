@@ -6,3 +6,7 @@ x=2*0
 y=1
 z=x+y
 print(z)
+x="dog"
+y="cat"
+x=2
+print(x,y)
