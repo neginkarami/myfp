@@ -10,3 +10,5 @@ x="dog"
 y="cat"
 x=2
 print(x,y)
+M=12
+print(m)
